@@ -6,34 +6,40 @@
   
 <img src="https://github.com/Abhi6722/covid_resources/blob/main/logo/Icon.png" width="256" height="256" align="centre"> 
 
-
-
-
 <h2 align="left"> This project was made in purpose for the Build a Modern Data App. </h2>  
 The repository contains all the information about the project.
-<li>Download the .apk file from here https://github.com/Abhi6722/covid_resources/blob/main/App/Covid_Resources.apk <br></li>
+<li>Download the apk file from here https://github.com/Abhi6722/covid_resources/blob/main/App/Covid_Resources.apk <br></li>
+<li>Watch the video here https://youtu.be/8O6VWOJZgds <br></li>
 <li>Simply download and use and spread love and awareness.<br></li>
 
 <h2 align="left"> COVID Resources </h2>
 The COVID-19 crisis and social distancing had a significant impact on our lives. And it has affected the lives of billions of people and to a greater extent this year. “The year of the pandemic” has shown that apps are at the heart of our lives, and we rely on them more than ever before.</br></br>
-Contact tracing apps are used by health departments to find people who may have come into contact with someone infected with COVID-19. Apps aid in the collection of data and the tracking of people's movements, making the process faster and more useful. Some may be able to identify people who may have been exposed to the virus, allowing them to isolate themselves and monitor for symptoms.
+Contact tracing apps are used by health departments to find people who may have come into contact with someone infected with COVID-19. Apps aid in the collection of data and the tracking of people's movements, making the process faster and more useful. Some may be able to identify people who may have been exposed to the virus, allowing them to isolate themselves and monitor for symptoms.</br></br>
 
 WHAT IT’S ALL ABOUT
-<li>The aim of this Gameathon is to raise awareness about the challenges caused by the pandemic whilst offering solutions that might help people stay safe.</li>
+<li>The aim of our app is to provide resources to the needful and raise awareness about the challenges caused by the pandemic so that we can fight this pandemic together.</li>
 
 <h2 align="left"> The Problem Statement </h2>  
-In an attempt to fight the virus, this hackathon calls upon developers to create innovative games that address issues faced by people during the pandemic. We are supposed to design a game that will help bring about awareness about the on going pandemic.
-w3sc
+Right now one of the biggest problems that people in India are facing is lack of resources and to be true they face more problems in accessing those resources. Everyday we see our friends posting on social media for the need of resources and many of them don't have access to and don't know about it. </br></br>
 
 <h2 align="left"> Solution </h2>  
-Our main objective it to promote social distancing and also to dismiss any misconceptions that people have developed over the new vaccine which has developed by India. We have analysed a few papers and have found that many people are not willing to take the vaccine. Through our game we want to promote the use of sanitizers , social distancing and preach the importance of vaccination.
+Upon analysing all of these problems our team decided to  build an app which would provide accurate information at the time of crisis. As we all know we are being hit by a new wave of covid in every six months or so. We have decided to develop a resources app for covid which would have all the details a person would need.</br></br>
+In this app we have listed the resources of different states of India and people who are in need can simply come and search in their locality and can contact them. Our app covid resources focuses on providing accurate data to the users. We have in our database integrated all of the information about the various hospitals across the country using AstraDb and others open source APIs and information available. </br></br>
+The interface of our app is extremely simple and user friendly. We have arranged all the resources under state names which users can download as in pdf format or in excel sheet. All you have to do is select your state and you are good to go. </br></br>
+AstraDb has played an important role in making our work easy as we can store huge amounts of data there and that also very easily.</br></br>
 
 
-<h2 align="left"> INTRODUCTION TO GAME </h2>  
-
-<li>The main character has to avoid all the obstacles present in each level and has to jump on the floating islands  avoiding  the monsters and the viruses. Here the monster represent the more virulent and  deadly  covid strain and the virus the less virulent strain by doing so we have stressed on the different strains which have been found we could not add a few features due to the lack of time however in future we can incorporate all the possible strains .</li>
-<li>We have also incorporated vaccine as a weapon as vaccination is the only way we can free our society of this pandemic. We have also kept the gameplay experience easy to understand so that even a kid who is only 5 years old can easily play corona convicts.</li>
-<li>The main character has to collect vaccine and inject it to the monster to destroy it and in this process he also has to avoid the virus . If he comes in contact with the virus it would cause him to lose life in the game. If he collects vaccine he would gain life . In this game the user is provided with 5 lives and if he exhausts all of them he will lose the game. He has to collect the vaccine and avoid virus keeping at least one life intact in order to win.</li>
+<h2 align="left"> IDEATION </h2>  
+The app is divided into different sections :
+<li>Covid Resources : This is the main objective of the app. It provides information about the COVID resources in the nearby location. The person in need has to just fill his location and it will show all the available resources near him and contact details to avail it. We have stored data of various states in AstraDb.</li>
+<li>Covid statistics : We have Integrated google stats for Covid-19 in our app which helps us to provide accurate data about covid statistics and vaccination statistics.</li>
+<li>Vaccination / Hospital beds : We have also integrated the status of Vaccination / Hospital beds through which people can get information about the vaccination available and hospital beds available in their area.</li>
+<li>Covid Helpline : We have included various helpline number which will give people ease to contact to proper authority provided by government.</li>
+<li>Covid Vaccination : We have also added covid vaccination booking link through which people can book their vaccination from the Cowin website. (Official website for Vaccination booking in India).</li>
+<li>Vaccine Notification : We have integrated a service in our app through which people can register themselves to get notified whenever vaccine is available. </li>
+<li>Chatbot : We have Integrated a chatbot using google dialogflow which will help users to get information about various things. (Chatbot is still needed to be modified).</li>
+<li>Precautions : We have added a few precautions so that people can get knowledge about it.</li>
+So this was the basic outline of the app.</br></br>
 
 <h2 align="left"> Tech Stack </h2>  
 
@@ -54,27 +60,25 @@ Trap Movement | Construct 3 sine and rotation behaviour
 <img align="left" src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/ss7.png" width="30%"></img> 
 <img src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/ss8.png" width="30%"></img> 
 
-<h2 align="left"> ABOUT THE PLATFORM </h2>  
-<li>We have developed our game with Construct 3 software. Construct 3 basically a game making software with the help of which we can create 2D games. <br></li>
-<li>Our main point of choosing Construct 3 is that it a browser based software and therefore we don't need a high end PC/laptop. And the team collaboration is also amazing. <br></li>
-<li>With construct 3 we can access our game from anywhere and on any device. This also supports offline editing which means we don't even need internet connection all the time for making game. <br></li>
-<li>One another and most important feature is that it includes multi platform deployment option. Which means we can export our game for Android, iphone, Windows, Mac and even for xbox, Facebook instant game and HTML5 games. <br></li>
+<h2 align="left"> ABOUT THE App </h2>  
+<li>We have developed our with the help of Bravo Studio which allowed us to save our time by simpling converting our design from figma to a app and later on we binded the data with the help of APIs to our UI.<br></li>
+<li>The main reason behind choosing bravo was that we lacked time and wanted to include as many resources as possible to we used bravo and connected all the information which we wanted to add without compromising on UI.<br></li>
+<li>We also used various API since we lacked time so we had to take help from those but in future we are planning to use AstraDb completely to store all the data as the process of data storing is as simple as a pie.<br></li>
+
+<h2 align="left"> FUTURE ENDEAVOURS </h2>
+<li>Our App is currently buid only for Android device so we are planing to release an ios build and a web build so that it can reaach to as many people as possible.<br></li>
+<li>Presently our app is based on datasets available in India however in future we can add databases of all the other countries.</li>
+<li>Due to lack of time we have used external APIs but in future we will completely depend on the AstraDb database.</li>
 
 
 <h2 align="left"> Platforms and features required</h2>  
-<li>Android 5.0 and above <br></li>
+<li>Android device<br></li>
 
 
 <h2 align="left"> Working Demo </h2>  
-<li>Link to Game(Android): https://drive.google.com/file/d/1twHC_5GW8yP9CJ-v-eFVs6dJOwxfBGrp/view?usp=sharing <br></li>
-<li>Link to pitch: https://youtu.be/VeLcxWsH8zo <br></li>
-<li>Link to thesis: https://drive.google.com/file/d/1ASrBhINphmVhq2zgKr94LtpNoou1wsDG/view?usp=sharing <br></li>
+<li>Link to App: https://github.com/Abhi6722/covid_resources/blob/main/App/Covid_Resources.apk <br></li>
+<li>Link to pitch: https://youtu.be/8O6VWOJZgds <br></li>
 
-
-
-<h2 align="left"> Instructions </h2>  
-<li>Download and install the .apk file to run on your android device.<br></li>
-<li>For PC, just click on the .exe file inside build.<br></li>
 
 </body>
 </html>
