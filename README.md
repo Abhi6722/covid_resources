@@ -53,7 +53,6 @@ Trap Movement | Construct 3 sine and rotation behaviour
 <img src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/ss6.png" width="30%"></img> 
 <img align="left" src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/ss7.png" width="30%"></img> 
 <img src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/ss8.png" width="30%"></img> 
-<img align="left" src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/ss9.png" width="30%"></img> 
 
 <h2 align="left"> ABOUT THE PLATFORM </h2>  
 <li>We have developed our game with Construct 3 software. Construct 3 basically a game making software with the help of which we can create 2D games. <br></li>
