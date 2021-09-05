@@ -2,9 +2,8 @@
 <html>
 <body>
 <h1 align="center"> Covid Resources </h1> 
-<br>Let's fight this pandemic together</br>
   
-<img src="https://github.com/Abhi6722/covid_resources/blob/main/logo/Icon.png" width="256" height="256" align="centre"> 
+<img src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/Frame%201.png" align="centre"> 
 
 <h2 align="left"> This project was made in purpose for the Build a Modern Data App. </h2>  
 The repository contains all the information about the project.
