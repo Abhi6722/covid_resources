@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1 align="center"> Coronna Convicts </h1> 
-<br>Save your city and fellow citizens from the deadly corona virus</br>
+<h1 align="center"> Covid Resources </h1> 
+<br>Let's fight this pandemic together</br>
   
 <img src="https://github.com/Abhi6722/coronaconvicts/blob/main/icons/icon-512.png" width="300" height="300" align="centre"> 
 
