@@ -4,7 +4,7 @@
 <h1 align="center"> Covid Resources </h1> 
 <br>Let's fight this pandemic together</br>
   
-<img src="https://github.com/Abhi6722/covid_resources/blob/main/logo/Icon.png" width="512" height="512" align="centre"> 
+<img src="https://github.com/Abhi6722/covid_resources/blob/main/logo/Icon.png" width="256" height="256" align="centre"> 
 
 
 
