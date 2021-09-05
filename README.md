@@ -3,7 +3,7 @@
 <body>
 <h1 align="center"> Covid Resources </h1> 
   
-<img src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/Frame%201.png" align="centre"> 
+<img src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/promotion.jpg" align="centre"> 
 
 <h2 align="left"> This project was made in purpose for the Build a Modern Data App. </h2>  
 The repository contains all the information about the project.
