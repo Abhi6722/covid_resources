@@ -45,10 +45,9 @@ So this was the basic outline of the app.</br></br>
 
 Purpose | Tool
 ------- | -------
-Character and Enemy Movement | Construct 3 platform movements
-Character Animation  | Construct 3 character animation sets
-Shield effect |  Construct 3 particle affect with custom effect 
-Trap Movement | Construct 3 sine and rotation behaviour
+Statitics | Google COVID-19 Statistics
+Resources | Powered by Care Today
+Hospitals/Vaccines |  Covid Watch
 
 <h2 align="left"> Application Screenshot </h2> 
 <img align="left" src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/ss1.png" width="30%"></img> 
