@@ -76,6 +76,15 @@ Hospitals/Vaccines |  Covid Watch
 <h2 align="left"> WORKING DEMO </h2>  
 <li>Link to App: https://github.com/Abhi6722/covid_resources/blob/main/App/Covid_Resources.apk <br></li>
 <li>Link to pitch: https://youtu.be/8O6VWOJZgds <br></li>
+</br>
+<img align="left" src="https://github.com/Abhi6722/covid_resources/blob/main/gif/1.gif" width="30%"></img> 
+<img src="https://github.com/Abhi6722/covid_resources/blob/main/gif/2.gif" width="30%"></img>
+<img align="left" src="https://github.com/Abhi6722/covid_resources/blob/main/gif/3.gif" width="30%"></img> 
+<img src="https://github.com/Abhi6722/covid_resources/blob/main/gif/4.gif" width="30%"></img>
+<img align="left" src="https://github.com/Abhi6722/covid_resources/blob/main/gif/5.gif" width="30%"></img> 
+<img src="https://github.com/Abhi6722/covid_resources/blob/main/gif/6.gif" width="30%"></img>
+<img align="left" src="https://github.com/Abhi6722/covid_resources/blob/main/gif/7.gif" width="30%"></img> 
+<img src="https://github.com/Abhi6722/covid_resources/blob/main/gif/8.gif" width="30%"></img>
 
 
 </body>
