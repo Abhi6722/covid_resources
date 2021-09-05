@@ -9,15 +9,15 @@
 
 
 
-<h2 align="left"> This project was made in purpose for the Covid-19 Gameathon organized by Angelhack. </h2>  
-The repository contains both the PC and the android build.
-<li>Download the .apk file from here https://drive.google.com/file/d/1twHC_5GW8yP9CJ-v-eFVs6dJOwxfBGrp/view?usp=sharing <br></li>
-<li>Simply download and enjoy the game and spread love and awareness.<br></li>
+<h2 align="left"> This project was made in purpose for the Build a Modern Data App. </h2>  
+The repository contains all the information about the project.
+<li>Download the .apk file from here https://github.com/Abhi6722/covid_resources/blob/main/App/Covid_Resources.apk <br></li>
+<li>Simply download and use and spread love and awareness.<br></li>
 
-<h2 align="left"> COVID-19 GAMEATHON </h2> </br>
-FEBRUARY 12- MARCH 12
-<li>In an attempt to fight the virus, this hackathon is being hosted to encourage and develop innovative games that address issues faced by people during the pandemic. Organized by St. Francis College for Women and HEART Hyderabad through a grant from the U.S. Consulate General Hyderabad. Hosted by Angelhack. </li>
-</br>
+<h2 align="left"> COVID Resources </h2>
+The COVID-19 crisis and social distancing had a significant impact on our lives. And it has affected the lives of billions of people and to a greater extent this year. “The year of the pandemic” has shown that apps are at the heart of our lives, and we rely on them more than ever before.</br></br>
+Contact tracing apps are used by health departments to find people who may have come into contact with someone infected with COVID-19. Apps aid in the collection of data and the tracking of people's movements, making the process faster and more useful. Some may be able to identify people who may have been exposed to the virus, allowing them to isolate themselves and monitor for symptoms.
+
 WHAT IT’S ALL ABOUT
 <li>The aim of this Gameathon is to raise awareness about the challenges caused by the pandemic whilst offering solutions that might help people stay safe.</li>
 
