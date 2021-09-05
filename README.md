@@ -58,7 +58,7 @@ Hospitals/Vaccines |  Covid Watch
 <img align="left" src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/ss7.png" width="30%"></img> 
 <img src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/ss8.png" width="30%"></img> 
 
-<h2 align="left"> ABOUT THE App </h2>  
+<h2 align="left"> ABOUT THE APP </h2>  
 <li>We have developed our with the help of Bravo Studio which allowed us to save our time by simpling converting our design from figma to a app and later on we binded the data with the help of APIs to our UI.<br></li>
 <li>The main reason behind choosing bravo was that we lacked time and wanted to include as many resources as possible to we used bravo and connected all the information which we wanted to add without compromising on UI.<br></li>
 <li>We also used various API since we lacked time so we had to take help from those but in future we are planning to use AstraDb completely to store all the data as the process of data storing is as simple as a pie.<br></li>
@@ -69,11 +69,11 @@ Hospitals/Vaccines |  Covid Watch
 <li>Due to lack of time we have used external APIs but in future we will completely depend on the AstraDb database.</li>
 
 
-<h2 align="left"> Platforms and features required</h2>  
+<h2 align="left"> PLATFORMS AND FEATURES REQUIRED</h2>  
 <li>Android device<br></li>
 
 
-<h2 align="left"> Working Demo </h2>  
+<h2 align="left"> WORKING DEMO </h2>  
 <li>Link to App: https://github.com/Abhi6722/covid_resources/blob/main/App/Covid_Resources.apk <br></li>
 <li>Link to pitch: https://youtu.be/8O6VWOJZgds <br></li>
 
