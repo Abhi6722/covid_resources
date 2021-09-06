@@ -5,7 +5,7 @@
   
 <img src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/Frame%201-min.png" align="centre"> 
 
-<h2 align="left"> This project was made in purpose for the Build a Modern Data App. </h2>  
+<h2 align="left"> This project was made in purpose to Solve Problem and Provide appropriate resoures. </h2>  
 The repository contains all the information about the project.
 <li>Download the apk file from here https://github.com/Abhi6722/covid_resources/blob/main/App/Covid_Resources.apk <br></li>
 <li>Watch the video here https://youtu.be/8O6VWOJZgds <br></li>
