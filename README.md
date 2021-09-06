@@ -5,6 +5,31 @@
   
 <img src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/Frame%201-min.png" align="centre"> 
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#covid-resources">Covid Resources</a>
+      <ul>
+        <li><a href="#problem-statement">Problem Statement</a></li>
+        <li><a href="#solution">Solution</a></li>
+        <li><a href="#ideation">Ideation</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#about-the-app">About The App</a>
+      <ul>
+        <li><a href="#tech-stack">Tech Stack</a></li>
+        <li><a href="#app-screenshots">App Screenshot</a></li>
+        <li><a href="#future-endeavours">Future Endeavours</a></li>
+         <li><a href="#platforms-and-features-required">Platform & Feature Required</a></li>
+         <li><a href="#working-demo-">Working Demo</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>  
+  
 <h2 align="left"> This project was made in purpose to Solve Problem and Provide appropriate resoures. </h2>  
 The repository contains all the information about the project.
 <li>Download the apk file from here https://github.com/Abhi6722/covid_resources/blob/main/App/Covid_Resources.apk <br></li>
@@ -20,7 +45,7 @@ Contact tracing apps are used by health departments to find people who may have 
 The aim of our app is to provide resources to the needful and raise awareness about the challenges caused by the pandemic so that we can fight this pandemic together.
 </details>
 
-<h2 align="left"> The Problem Statement </h2>  
+<h2 align="left"> Problem Statement </h2>  
 Right now one of the biggest problems that people in India are facing is lack of resources and to be true they face more problems in accessing those resources. Everyday we see our friends posting on social media for the need of resources and many of them don't have access to and don't know about it. </br></br>
 
 <h2 align="left"> Solution </h2>  
@@ -42,6 +67,12 @@ The app is divided into different sections :
 <li>Precautions : We have added a few precautions so that people can get knowledge about it.</li>
 So this was the basic outline of the app.</br></br>
 
+
+<h2 align="left"> About the App </h2>  
+<li>We have developed our with the help of Bravo Studio which allowed us to save our time by simpling converting our design from figma to a app and later on we binded the data with the help of APIs to our UI.<br></li>
+<li>The main reason behind choosing bravo was that we lacked time and wanted to include as many resources as possible to we used bravo and connected all the information which we wanted to add without compromising on UI.<br></li>
+<li>We also used various API since we lacked time so we had to take help from those but in future we are planning to use AstraDb completely to store all the data as the process of data storing is as simple as a pie.<br></li>
+
 <h2 align="left"> Tech Stack </h2>  
 
 Purpose | Tool
@@ -50,7 +81,7 @@ Statitics | Google COVID-19 Statistics
 Resources | Powered by Care Today
 Hospitals/Vaccines |  Covid Watch
 
-<h2 align="left"> Application Screenshot </h2> 
+<h2 align="left"> App Screenshot </h2> 
 <details>
 <summary>See here</summary>
 <img align="left" src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/ss1.png" width="30%"></img> 
@@ -62,10 +93,6 @@ Hospitals/Vaccines |  Covid Watch
 <img align="left" src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/ss7.png" width="30%"></img> 
 <img src="https://github.com/Abhi6722/covid_resources/blob/main/screenshots/ss8.png" width="30%"></img> 
 </details>
-<h2 align="left"> About the App </h2>  
-<li>We have developed our with the help of Bravo Studio which allowed us to save our time by simpling converting our design from figma to a app and later on we binded the data with the help of APIs to our UI.<br></li>
-<li>The main reason behind choosing bravo was that we lacked time and wanted to include as many resources as possible to we used bravo and connected all the information which we wanted to add without compromising on UI.<br></li>
-<li>We also used various API since we lacked time so we had to take help from those but in future we are planning to use AstraDb completely to store all the data as the process of data storing is as simple as a pie.<br></li>
 
 <h2 align="left"> Future Endeavours </h2>
 <li>Our App is currently buid only for Android device so we are planing to release an ios build and a web build so that it can reaach to as many people as possible.<br></li>
