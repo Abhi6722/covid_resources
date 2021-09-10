@@ -7,7 +7,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Table of Content</summary>
   <ol>
     <li>
       <a href="#covid-resources">Covid Resources</a>
