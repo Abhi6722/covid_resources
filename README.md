@@ -97,7 +97,6 @@ Hospitals/Vaccines |  Covid Watch
 <h2 align="left"> Future Endeavours </h2>
 <li>Our App is currently buid only for Android device so we are planing to release an ios build and a web build so that it can reaach to as many people as possible.<br></li>
 <li>Presently our app is based on datasets available in India however in future we can add databases of all the other countries.</li>
-<li>Due to lack of time we have used external APIs but in future we will completely depend on the AstraDb database.</li>
 
 
 <h2 align="left"> Platforms and features required</h2>  
