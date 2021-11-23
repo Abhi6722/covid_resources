@@ -120,5 +120,6 @@ Hospitals/Vaccines |  Covid Watch
 <img src="https://github.com/Abhi6722/covid_resources/blob/main/gif/8.gif" width="30%"></img>
 </details>
 
+
 </body>
 </html>
